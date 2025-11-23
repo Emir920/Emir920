@@ -2,7 +2,7 @@
 python öğrenmeye çalışan bir öğrenciyim ve büyüyyünce bir yazılımcı olmak istiyorum
 
 
-Here are some ideas to get you started:
+Benim hakkımda:
 
 - 🌱 Şuan python öğreniyorum
 - 👯 boş zamanımda küçük projeler yapmayı seviyorum
