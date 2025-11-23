@@ -1,7 +1,6 @@
 # merhabalar 👋 ben Emir Alshboul
 python öğrenmeye çalışan bir öğrenciyim ve büyüyyünce bir yazılımcı olmak istiyorum
 
-<!--
 **Emir920/Emir920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: by calling me
 - 😄 Pronouns: he him
 - ⚡ Fun fact: i like coding
--->
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/73507dce-008c-4445-9839-fdffba4c9afe" />
